@@ -1,0 +1,34 @@
+body {
+  background: white;
+  font-size: 16px;
+}
+h1 {
+  color: black;
+}
+div#about_blue {
+  width: 600px;
+  padding: 10px;
+  border: 2px;
+  border-style: solid;
+  border-color: black;
+  margin: 0;
+  background-color: #6495ED;
+}
+div#about_blue ul {
+    color: blue;
+}
+div#about_yellow {
+  width: 600px;
+  padding: 10px;
+  border: 2px;
+  border-style: solid;
+  border-color: black;
+  margin: 0;
+  background-color: #FFEBCD;}
+div#about_yellow ul {
+    color: orange;
+}
+.nav * {
+  background-color: red;
+  color: white;
+}
